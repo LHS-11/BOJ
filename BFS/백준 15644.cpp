@@ -1,7 +1,7 @@
 //authorized by LHS
 //ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 //#define _CRT_SECURE_NO_WARNINGS
-// πÈ¡ÿ. 15644
+// Î∞±Ï§Ä. 15644
 #include <bits/stdc++.h>
 #define X first
 #define Y second
@@ -10,7 +10,7 @@
 #define ll long long
 using namespace std;
 int n, m;
-int dx[4] = { -1,1,0,0 }; // ∫œ ≥≤ µø º≠
+int dx[4] = { -1,1,0,0 }; // Î∂Å ÎÇ® Îèô ÏÑú
 int dy[4] = { 0,0,1,-1 };
 char dir[4] = { 'U','D','R','L' };
 int vis[11][11][11][11];
